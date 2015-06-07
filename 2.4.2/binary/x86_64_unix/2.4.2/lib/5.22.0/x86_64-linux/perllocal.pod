@@ -1,0 +1,22 @@
+=head2 Sat Jun  6 17:53:37 2015: C<Module> L<Git|Git>
+
+=over 4
+
+=item *
+
+C<installed into: /Scr/scr-test-steven/install/git/2.4.2/lib/site_perl/5.22.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
